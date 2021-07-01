@@ -1,2 +1,2 @@
 # kldchan.github.io
-GitHub Pages
+GitHub Pages Demo
